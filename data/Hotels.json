@@ -1,0 +1,97 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "name":"Cox's Bazar",
+        "catId":1,
+        "title" : "Light bright airy stylish apt & safe peaceful stay",
+        "ratings": "4.9",
+        "amount" :"$34",
+        "capacity": [4,2,2,2],
+        "description" : "Cox's Bazar, town, southeastern Bangladesh. It is situated along the Bay of Bengal about 60 miles (100 km) south of Chittagong. The town, constituted a municipality in 1869, was named for Hiram Cox, who supervised the settlement there of Arakanese refugees from conquest by Myanmar (Burma) in 1799.",
+        "image" : "https://i.ibb.co/2ZL20CG/Rectangle-1.png"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "location":"Cox's Bazar",
+        "catId":1,
+        "title" : "Apartment in Lost Panorama",
+        "ratings": "4.9",
+        "amount" :"$34",
+        "capacity": [3,3,2,2],
+        "description" : "Cox's Bazar, town, southeastern Bangladesh. It is situated along the Bay of Bengal about 60 miles (100 km) south of Chittagong. The town, constituted a municipality in 1869, was named for Hiram Cox, who supervised the settlement there of Arakanese refugees from conquest by Myanmar (Burma) in 1799.",
+        "image" : "https://i.ibb.co/zn0rFMN/Rectangle-26.png"
+    },
+
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "name" : "Bandarban",
+        "catId":2,
+        "title" : "Airy stylish apt & safe peaceful stay",
+        "ratings": "4.9",
+        "amount" :"$34",
+        "capacity": [5,2,1,4],
+        "description" : "Cox's Bazar, town, southeastern Bangladesh. It is situated along the Bay of Bengal about 60 miles (100 km) south of Chittagong. The town, constituted a municipality in 1869, was named for Hiram Cox, who supervised the settlement there of Arakanese refugees from conquest by Myanmar (Burma) in 1799.",
+        "image"  : "https://i.ibb.co/NV09qdK/Rectangle-27.png"
+    },
+    {
+        "_id": "f69a695f033cd9484cecaea35ca71012",
+        "name" : "Bandarban",
+        "catId":2,
+        "title" : "AR Louge and pool",
+        "ratings": "4.9",
+        "amount" :"$34",
+        "capacity": [5,2,1,4],
+        "description" : "Cox's Bazar, town, southeastern Bangladesh. It is situated along the Bay of Bengal about 60 miles (100 km) south of Chittagong. The town, constituted a municipality in 1869, was named for Hiram Cox, who supervised the settlement there of Arakanese refugees from conquest by Myanmar (Burma) in 1799.",
+        "image"  : "https://i.ibb.co/NV09qdK/Rectangle-27.png"
+    },
+
+
+
+        {
+            "_id": "0282e0e58vg5c404fbd15261f11c2ab6a",
+            "name" : "Shundorbon",
+            "catId":3,
+            "title" : "Light bright airy stylish apt & safe peaceful stay",
+            "ratings": "4.9",
+            "amount" :"$34",
+            "capacity": [4,2,2,2],
+            "description" : "Cox's Bazar, town, southeastern Bangladesh. It is situated along the Bay of Bengal about 60 miles (100 km) south of Chittagong. The town, constituted a municipality in 1869, was named for Hiram Cox, who supervised the settlement there of Arakanese refugees from conquest by Myanmar (Burma) in 1799.",
+            "image" : "https://i.ibb.co/2ZL20CG/Rectangle-1.png"
+        },
+        {
+            "_id": "0282e0e52sdfa5c404fbd15261f11c2ab6b",
+            "name" : "Shundorbon",
+            "catId":3,
+            "title" : "Apartment in Lost Panorama",
+            "ratings": "4.9",
+            "amount" :"$34",
+            "capacity": [3,3,2,2],
+            "description" : "Cox's Bazar, town, southeastern Bangladesh. It is situated along the Bay of Bengal about 60 miles (100 km) south of Chittagong. The town, constituted a municipality in 1869, was named for Hiram Cox, who supervised the settlement there of Arakanese refugees from conquest by Myanmar (Burma) in 1799.",
+            "image" : "https://i.ibb.co/zn0rFMN/Rectangle-26.png"
+        },
+    
+        {
+            "_id": "f69a695f037cdfgb9484cecaea37ca71011",
+            "name" : "Shundorbon",
+            "catId":3,
+            "title" : "Airy stylish apt & safe peaceful stay",
+            "ratings": "4.9",
+            "amount" :"$34",
+            "capacity": [5,2,1,4],
+            "description" : "Cox's Bazar, town, southeastern Bangladesh. It is situated along the Bay of Bengal about 60 miles (100 km) south of Chittagong. The town, constituted a municipality in 1869, was named for Hiram Cox, who supervised the settlement there of Arakanese refugees from conquest by Myanmar (Burma) in 1799.",
+            "image"  : "https://i.ibb.co/NV09qdK/Rectangle-27.png"
+        },
+        {
+            "_id": "f69a695f033cddvfbd39484cecaea35ca71012",
+            "name":"Cox's Bazar",
+            "catId":1,
+            "title" : "AR Louge and pool",
+            "ratings": "4.9",
+            "amount" :"$34",
+            "capacity": [5,2,1,4],
+            "description" : "Cox's Bazar, town, southeastern Bangladesh. It is situated along the Bay of Bengal about 60 miles (100 km) south of Chittagong. The town, constituted a municipality in 1869, was named for Hiram Cox, who supervised the settlement there of Arakanese refugees from conquest by Myanmar (Burma) in 1799.",
+            "image"  : "https://i.ibb.co/NV09qdK/Rectangle-27.png"
+        }
+    
+    
+]
